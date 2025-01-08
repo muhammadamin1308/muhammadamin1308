@@ -21,4 +21,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadamin1308&show_icons=true&theme=tokyonight&locale=en" alt="muhammadamin1308" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muhammadamin1308&theme=nightfox&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=muhammadamin1308&theme=dark&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
